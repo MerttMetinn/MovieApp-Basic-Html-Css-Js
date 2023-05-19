@@ -2,7 +2,7 @@
 
 |  #  | Project | Live Demo  |
 | :-: | --- | --- |
-| 01  | [MovieApp](https://github.com/MerttMetinn/First-html-project) | [Live Demo](https://movie-app-basic-html-css-js.w3spaces.com/)|
+| 01  | [MovieApp-v2.0](https://github.com/MerttMetinn/MovieApp-Basic-Html-Css-Js/tree/main) | [Live Demo](https://movie-app-basic-html-css-js.w3spaces.com/)|
 
 Note : Not yet finished. I will complete it later.
 <br></br>
