@@ -4,4 +4,14 @@
 | :-: | --- | --- |
 | 01  | [MovieApp](https://github.com/MerttMetinn/First-html-project) | [Live Demo](https://movie-app-basic-html-css-js.w3spaces.com/)|
 
-Not yet finished. I will complete it
+Note : Not yet finished. I will complete it later.
+<br></br>
+Note 2 : The navbar looks different in the image than in the live demo.
+
+##
+
+![image](https://github.com/MerttMetinn/MovieApp-Basic-Html-Css-Js/assets/114061715/759d7abc-5219-4526-a47c-a942348e9196)
+
+
+
+
