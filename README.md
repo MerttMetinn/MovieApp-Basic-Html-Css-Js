@@ -6,7 +6,7 @@
 
 Note : Not yet finished. I will complete it later.
 <br></br>
-Note 2 : The navbar looks different in the image than in the live demo.
+Note 2 : The navbar looks smoother in the image than in the live demo.
 
 ##
 
